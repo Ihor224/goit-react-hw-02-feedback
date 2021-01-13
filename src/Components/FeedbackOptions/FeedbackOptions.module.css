@@ -1,0 +1,19 @@
+.btn {
+  display: inline-block;
+  text-align: center;
+  margin: 4px 2px;
+  padding: 8px 16px;
+  border: 1px solid #7f9299;
+  border-radius: 5px;
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  transition-duration: 250ms;
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: white;
+  background-color: #7f9299;
+}
