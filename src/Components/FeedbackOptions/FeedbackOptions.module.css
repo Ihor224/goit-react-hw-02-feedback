@@ -1,6 +1,13 @@
+.feedbackOptions {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
 .btn {
   display: inline-block;
   text-align: center;
+  width: 30%;
   margin: 4px 2px;
   padding: 8px 16px;
   border: 1px solid #7f9299;
